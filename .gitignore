@@ -1,0 +1,10 @@
+# Ignore the executable and build folder
+romsM
+Build_romsM/
+make_macros.mk
+
+# Ignore the massive data files
+*.nc
+
+# Ignore logs
+*.txt
